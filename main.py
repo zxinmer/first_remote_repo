@@ -7,3 +7,9 @@ def experimental():
 def new_feature():
     print('dev dev')
 
+<<<<<<< HEAD
+=======
+def new():
+    print('new')
+    print('hi')
+>>>>>>> new
