@@ -1,4 +1,4 @@
 print('master brench')
 
 def experimental():
-    pass
+    print('a')
