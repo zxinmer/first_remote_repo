@@ -5,4 +5,4 @@ def experimental():
     print(a)
 
 def new_feature():
-    pass
+    print('dev dev')
