@@ -1,4 +1,4 @@
-print('master brench')
+print('master branch')
 
 def experimental():
     a = 1+2
@@ -7,3 +7,9 @@ def experimental():
 def new_feature():
     print('dev dev')
 
+<<<<<<< HEAD
+=======
+def new():
+    print('new')
+    print('hi')
+>>>>>>> new
